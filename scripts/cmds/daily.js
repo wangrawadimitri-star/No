@@ -4,7 +4,7 @@ module.exports = {
 	config: {
 		name: "daily",
 		version: "1.2",
-		author: "Christus",
+		author: "Derla Kiritö ",
 		countDown: 5,
 		role: 0,
 		description: {
@@ -17,7 +17,7 @@ module.exports = {
 		},
 		envConfig: {
 			rewardFirstDay: {
-				coin: 100,
+				coin: infini ,
 				exp: 10
 			}
 		}
@@ -32,7 +32,7 @@ module.exports = {
 			friday: "Vendredi",
 			saturday: "Samedi",
 			sunday: "Dimanche",
-			alreadyReceived: "🎁 Vous avez déjà reçu votre cadeau aujourd'hui !",
+			alreadyReceived: "Dsl mec tu as déjà eu ton l'argent tu veux quoi de plus 😅🤣!",
 			received: "🎉 Vous avez reçu %1 coins et %2 points d'expérience !"
 		}
 	},
