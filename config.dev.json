@@ -45,7 +45,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "uptime🤖 bot 🖤 ۝۝",
+  "nickNameBot": "Derla🖤bot💎 ۝۝",
   "prefix": "🌀",
   "database": {
     "type": "mongodb",
